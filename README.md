@@ -22,7 +22,7 @@ git fetch
 **② 유니티 프로젝트 만들기**
 <div align=center>
     <img src="img/make_project.png">
-    <p>1. 3D(URP) 선택 <br>2. "Sophia_P_V_1_0" 으로 생성</p>
+    <p>1. 3D(URP) 선택 <br>2. "ProjectLamb_YouHaveToReadIt" 으로 생성(가안)</p>
 </div>
 
 **③ 유니티 프로젝트에 clone한 내용을 그대로 덮어씌운다다**
