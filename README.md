@@ -29,7 +29,7 @@ git fetch
 
 ---
 
-### 2. 유니티 전용 .gitignore 설정
+### 1. 유니티 전용 .gitignore 설정
 
 .gitingore 만들고, 다음 텍스트를 .gitingore에 넣기
 
@@ -141,7 +141,7 @@ Assets/UserData.json
 
 ---
 
-### 3. git window & mac 협업
+### 2. git window & mac 협업
 **LF, CRLF 관련 오류**
 서로 다른 OS간 git 사용때문에 발생하는 오류다 정확한것은 
 OS에 맞는 설정을 구글에 꼭 찾아보길!
